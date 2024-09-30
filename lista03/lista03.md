@@ -253,6 +253,8 @@ altura $h$, em uma direção que forma um ângulo $θ$ relativamente à horizont
 **(a) a distância horizontal $x$ e a distância vertical y percorrida pela bola em
 função de h, da aceleração da gravidade g, do tempo t e do ângulo θ;**
 
+Usando o Taylor:
+
 $y = y_0 + y't + \frac{y''}{2}t^2 \implies y = h + \sin(\theta)vt - \frac{g}{2}t^2$ (.eq 0)
 
 $x = x_0 + x't + \frac{x''}{2}t^2 \implies x = \cos(\theta)vt$ (.eq 1)

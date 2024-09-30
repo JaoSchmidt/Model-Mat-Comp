@@ -73,8 +73,8 @@ Na forma vetorial $
 
 Dessa forma, o ângulo entre $OA$ e $OB$ é $2*\theta$:
 
-Portanto a velocidade angular que
+Portanto a velocidade:
 
-$A = (\cos(wt)w,\sen(wt)) e B = (2*\cos(wt), 0)$
+$A = (\cos(wt)w,\sin(wt))$ e $B = (2*\cos(wt), 0)$
 
 
